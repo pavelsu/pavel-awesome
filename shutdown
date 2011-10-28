@@ -1,0 +1,3 @@
+#!/bin/bash
+zenity --question --text 'Are you sure you want to halt?' && sudo /sbin/shutdown -h now
+
