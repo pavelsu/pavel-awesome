@@ -65,7 +65,7 @@ end
 
 --- {{{ Menu
 mymainmenu = awful.menu.new({ items = {
-   { "&gvim", "/home/pavel/.config/awesome/gvim" },
+   { "&gvim", "gvim" },
 --    { "&gvim", "gvim -S /home/pavel/.vim/vimrc/ide.vimrc" },
     { "&eclipse", "/home/pavel/.opt/eclipse/eclipse" },
     { "&netbeans", "/home/pavel/.config/awesome/netbeans" },

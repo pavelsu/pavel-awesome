@@ -1,4 +1,0 @@
-#!/bin/bash
-#/home/pavel/.opt/eclipse/eclimd start
-cd ~/workspace/
-gvim
